@@ -1,0 +1,40 @@
+{
+  "motherboards": [
+    {
+      "brand": "ASUS",
+      "model": "PRIME B660M-K",
+      "socket": "LGA1700",
+      "chipset": "B660",
+      "ram_type": "DDR4",
+      "ram_max_gb": 128,
+      "cpu_supported": "Intel 12th / 13th Gen",
+      "pcie": "PCIe 4.0",
+      "form_factor": "mATX",
+      "notes": "BIOS update may be required for 13th Gen"
+    },
+    {
+      "brand": "ASUS",
+      "model": "PRIME B550-PLUS",
+      "socket": "AM4",
+      "chipset": "B550",
+      "ram_type": "DDR4",
+      "ram_max_gb": 128,
+      "cpu_supported": "Ryzen 3000 / 5000",
+      "pcie": "PCIe 4.0",
+      "form_factor": "ATX",
+      "notes": "Supports Ryzen 5000 after BIOS update"
+    },
+    {
+      "brand": "ASUS",
+      "model": "PRIME B760M-A",
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "ram_type": "DDR5",
+      "ram_max_gb": 192,
+      "cpu_supported": "Intel 12th / 13th / 14th Gen",
+      "pcie": "PCIe 5.0",
+      "form_factor": "mATX",
+      "notes": "DDR5 only"
+    }
+  ]
+}
